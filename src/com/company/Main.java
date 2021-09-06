@@ -12,8 +12,6 @@ public class Main {
 
         //This is how you set up a new Scanner based on input.//
 
-        System.out.println("Please select a random digit");
-
         String ascii1 =
                 "The Ascii-art below is of the Stonehenge"+
                 "\n"+
@@ -98,6 +96,8 @@ public class Main {
                 "         `\"8;::::::::::::::::::::::::::;8\"'\n" +
                 "            `\"Ya;::::::::::::::::::;aP\"'\n" +
                 "                ``\"\"YYbbaaaaddPP\"\"''";
+
+        System.out.println("Please select a random digit");
 
         for (int i = 0; i < 3; i++) {
 
